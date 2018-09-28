@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "apply-template": "git@github.com:patrickleet/apply-template.git",
+    "express-servicebus": "git@github.com:patrickleet/express-servicebus.git",
+    "servicebus-bus-common": "git@github.com:patrickleet/servicebus-bus-common.git",
+    "open-source-setup": "git@github.com:patrickleet/open-source-setup.git",
+    "circuit-breaker-await-async": "git@github.com:patrickleet/circuit-breaker-await-async.git",
+    "get-docker-secrets": "git@github.com:patrickleet/get-docker-secrets.git",
+    "expand-keys": "git@github.com:patrickleet/expand-keys.git",
+    "express-api-common": "git@github.com:patrickleet/express-api-common.git"
+  }
+}
