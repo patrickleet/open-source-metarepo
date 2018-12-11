@@ -29,6 +29,9 @@
     "find-file-recursively-up": "git@github.com:mateodelnorte/find-file-recursively-up.git",
     "symlink-meta-dependencies": "git@github.com:mateodelnorte/symlink-meta-dependencies.git",
     "meta-init": "git@github.com:mateodelnorte/meta-init.git",
-    "cconfig": "git@github.com:mateodelnorte/cconfig.git"
+    "cconfig": "git@github.com:mateodelnorte/cconfig.git",
+    "servicebus-microservice": "git@github.com:patrickleet/servicebus-microservice.git",
+    "parcel-react-ssr": "git@github.com:patrickleet/parcel-react-ssr.git",
+    "timeout-request": "git@github.com:patrickleet/timeout-request.git"
   }
 }
