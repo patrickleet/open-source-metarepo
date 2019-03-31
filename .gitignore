@@ -35,5 +35,3 @@ timeout-request
 find-module-bin
 servicebus-meta
 stream-all-the-things
-rabbitbus
-kafkabus
