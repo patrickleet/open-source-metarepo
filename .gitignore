@@ -32,3 +32,8 @@ cconfig
 servicebus-microservice
 parcel-react-ssr
 timeout-request
+find-module-bin
+servicebus-meta
+stream-all-the-things
+rabbitbus
+kafkabus

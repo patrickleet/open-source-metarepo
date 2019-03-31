@@ -32,6 +32,11 @@
     "cconfig": "git@github.com:mateodelnorte/cconfig.git",
     "servicebus-microservice": "git@github.com:patrickleet/servicebus-microservice.git",
     "parcel-react-ssr": "git@github.com:patrickleet/parcel-react-ssr.git",
-    "timeout-request": "git@github.com:patrickleet/timeout-request.git"
+    "timeout-request": "git@github.com:patrickleet/timeout-request.git",
+    "find-module-bin": "git@github.com:mateodelnorte/find-module-bin.git",
+    "servicebus-meta": "git@github.com:servicebus/meta.git",
+    "stream-all-the-things": "git@github.com:patrickleet/streaming-ssr-react-styled-components.git",
+    "rabbitbus": "git@github.com:servicebus/rabbitbus.git",
+    "kafkabus": "git@github.com:servicebus/kafkabus.git"
   }
 }
